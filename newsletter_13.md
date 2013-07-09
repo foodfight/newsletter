@@ -12,8 +12,8 @@ It's been a month since our last newsletter so this one will focus mainly on all
 ### Upcoming Episodes
 We are preparing episodes on the following topics and would love your help generating questions, identifying panelists, etc.
 
-* Chef Internals - [Wednesday, June 12, 2013 19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+Internals&iso=20130612T15&p1=1928&ah=1)
-* Continuous Delivery - [Monday, June 17, 2013 18:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Continuous+Delivery&iso=20130617T14&p1=1928)
+* [Secret Chef](https://github.com/foodfight/showz/blob/master/scripts/episode-57-secret-chef.md) - Storing Sensitive Data in Chef [Tuesday, July 9, 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Secret+Chef&iso=20130709T12&p1=1928&ah=1)
+* [Immutable Infrastructure](https://github.com/foodfight/showz/blob/master/scripts/episode-58-immutable-infrastructure.md) with Chad Fowler - [Monday, July 22, 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Immutable+Infrastructure&iso=20130722T12&p1=1928&ah=1)
 * Chef and Openstack
 
 Cookbook News<a name="cookbooks"></a>
