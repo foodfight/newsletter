@@ -4,10 +4,10 @@ Food Fight Show News
 It's been a month since our last newsletter so this one will focus mainly on all of the new and updated cookbooks and gems.
 
 ### Latest Episodes
-* Chef and AWS [website](http://foodfightshow.org/2013/06/amazon-web-services.html) | [YouTube](http://www.youtube.com/watch?v=b8LXZMjVi1A)
-* Testing in Practice [website](http://foodfightshow.org/2013/05/testing-in-practice.html) | [YouTube](http://www.youtube.com/watch?v=DhcXXOIerIc)
-* [DevOps Delicacies from Monitorama 2013](http://foodfightshow.org/2013/05/monitorama-2013.html)
-* Netflix OSS [website](http://foodfightshow.org/2013/05/netflix-oss.html) | [YouTube](http://www.youtube.com/watch?v=A69uTnfQgB8)
+* Erlang Eye for the DevOps Guy and Gal [website](http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html) | [YouTube](http://www.youtube.com/watch?v=7WqczWKwWOU)
+* DevOpsDays - Silicon Valley [website](http://foodfightshow.org/2013/06/devopsdays-silicon-valley.html) 
+* Continuous Delivery [website](http://foodfightshow.org/2013/06/continuous-delivery.html) | [YouTube](http://www.youtube.com/watch?v=h78cMy63XF8)
+* Chef Internals With Dan DeLeo [website](http://foodfightshow.org/2013/06/episode-53-chef-internals-with-dan-deleo.html) | [YouTube](http://www.youtube.com/watch?v=1ulVUl_O47g)
 
 ### Upcoming Episodes
 We are preparing episodes on the following topics and would love your help generating questions, identifying panelists, etc.
