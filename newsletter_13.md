@@ -107,9 +107,6 @@ Provides a recipe that deploys the cacert.org root certificate, and fixes broken
 * [mono](http://community.opscode.com/cookbooks/mono) - [guilhemfr](http://community.opscode.com/users/guilhemfr) - Installs/Configures mono
 * [multitail](http://community.opscode.com/cookbooks/multitail) - [dabl_web](http://community.opscode.com/users/dabl_web) - Installs/Configures multitail
 * [newrelic-ng](http://community.opscode.com/cookbooks/newrelic-ng) - [chr4](http://community.opscode.com/users/chr4) - Installs/Configures newrelic monitoring
-
-* nrsysmond
-* newrelic_plugin_agent
 * [onddo-spamassassin](http://community.opscode.com/cookbooks/onddo-spamassassin) - [onddo](http://community.opscode.com/users/onddo) - Installs and configures SpamAssassin, a mail filter software to identify spam.
 * [osx](http://community.opscode.com/cookbooks/osx) - [alexhowells](http://community.opscode.com/users/alexhowells) - Manage OSX application and system settings
 * [pam-ssh-agent-auth](http://community.opscode.com/cookbooks/pam-ssh-agent-auth) - [cpick](http://community.opscode.com/users/cpick) - Install pam_ssh_agent_auth and enable it for sudo.
