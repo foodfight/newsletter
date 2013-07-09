@@ -1,7 +1,7 @@
 Food Fight Show News
 -------------------
 
-It's been a month since our last newsletter so this one will focus mainly on all of the new and updated cookbooks and gems.
+It's been a month since our last newsletter so this one will focus mainly on all of the new and updated cookbooks and gems.  In fact, this newsletter contains so many updates that the message will be clipped by some mail clients including gmail.  Please view the entire list of updates on the web.
 
 ### Latest Episodes
 * Erlang Eye for the DevOps Guy and Gal [website](http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html) | [YouTube](http://www.youtube.com/watch?v=7WqczWKwWOU)
