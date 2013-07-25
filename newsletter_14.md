@@ -22,7 +22,7 @@ In the News
 * [Opinionated Infrastructure Hangout: DevOps and Continuous Delivery leveraging Cloud](http://www.youtube.com/watch?v=ikrLxaJDNtY)
 * Getting Started Writing Chef Cookbooks the Berkshelf Way - [Part 1](http://misheska.com/blog/2013/06/16/getting-started-writing-chef-cookbooks-the-berkshelf-way/) and [Part 2](http://misheska.com/blog/2013/06/23/getting-started-writing-chef-cookbooks-the-berkshelf-way-part2/)
 
-### Chef 11.6.0 
+#### Chef 11.6.0 
 * [Chef Client 11.6.0, Ohai 6.18.0, and more!](http://www.opscode.com/blog/2013/07/23/chef-client-11-6-0-ohai-6-18-0-and-more/) - A blog post highlighting many of the changes and linking to a bunch of related resources.
 * Documentation for the latest version of Chef, 11.6.0, is now available at [docs.opscode.com](http://docs.opscode.com).  Documentation for versions 11.0, 11.2, and 11.4 are now also available at [docs.opscode.com/chef/release/11-4/](http://docs.opscode.com/chef/release/11-4/). 
 
