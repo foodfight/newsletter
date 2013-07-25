@@ -317,6 +317,7 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 179
 * [knife-sharp](http://rubygems.org/gems/knife-sharp) (0.4.2) - Sharpen your knife
 * [rake-remote_chef](http://rubygems.org/gems/rake-remote_chef) (0.0.4) - Execute chef-solo with Rake::RemoteTask to remote host.
 * [ridley](http://rubygems.org/gems/ridley) (1.4.0) - A reliable Chef API client with a clean syntax
+* [spiceweasel](http://rubygems.org/gems/spiceweasel) (2.5.0) - Provides a CLI tool for generating knife commands to build Chef-managed infrastructure from a simple JSON or YAML file.
 * [strainer](http://rubygems.org/gems/strainer) (3.0.5) - Run isolated cookbook tests against your chef repository with Strainer.
 * [vagrant-berkshelf](http://rubygems.org/gems/vagrant-berkshelf) (1.3.3) - A Vagrant plugin to add Berkshelf integration to the Chef provisioners
 * [vagrant-chef-zero](http://rubygems.org/gems/vagrant-chef-zero) (0.2.10) - Enables Vagrant to interact with Chef Zero
