@@ -18,13 +18,14 @@ In the News
 -----------
 
 * [Upcoming Hosted Chef Database Maintenance](http://opscode.tumblr.com/post/56280725759/upcoming-database-server-maintenance) - Thursday, 25 July 2013 from 21:00 PDT to 23:00 PDT
-* [ewma](https://vividcortex.com/blog/2013/07/23/a-fast-go-library-for-exponential-moving-averages/) a fast Go library for exponential moving average recently open sourced by our friends at [VividCortex](https://vividcortex.com/)
+
 * [Opinionated Infrastructure Hangout: DevOps and Continuous Delivery leveraging Cloud](http://www.youtube.com/watch?v=ikrLxaJDNtY)
 * Getting Started Writing Chef Cookbooks the Berkshelf Way - [Part 1](http://misheska.com/blog/2013/06/16/getting-started-writing-chef-cookbooks-the-berkshelf-way/) and [Part 2](http://misheska.com/blog/2013/06/23/getting-started-writing-chef-cookbooks-the-berkshelf-way-part2/)
+* [ewma](https://vividcortex.com/blog/2013/07/23/a-fast-go-library-for-exponential-moving-averages/) a fast Go library for exponential moving average recently open sourced by our friends at [VividCortex](https://vividcortex.com/)
 
 #### Chef 11.6.0 
 * [Chef Client 11.6.0, Ohai 6.18.0, and more!](http://www.opscode.com/blog/2013/07/23/chef-client-11-6-0-ohai-6-18-0-and-more/) - A blog post highlighting many of the changes and linking to a bunch of related resources.
-* Documentation for the latest version of Chef, 11.6.0, is now available at [docs.opscode.com](http://docs.opscode.com).  Documentation for versions 11.0, 11.2, and 11.4 are now also available at [docs.opscode.com/chef/release/11-4/](http://docs.opscode.com/chef/release/11-4/). 
+* Documentation for the latest version of Chef, 11.6.0, is now available at [docs.opscode.com](http://docs.opscode.com).  Documentation for versions 11.0, 11.2, and 11.4 have been moved to [docs.opscode.com/chef/release/11-4/](http://docs.opscode.com/chef/release/11-4/). 
 
 ### Upcoming Meetup Groups and Events
 
