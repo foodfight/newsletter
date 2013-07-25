@@ -22,6 +22,7 @@ In the News
 * [Opinionated Infrastructure Hangout: DevOps and Continuous Delivery leveraging Cloud](http://www.youtube.com/watch?v=ikrLxaJDNtY)
 * Getting Started Writing Chef Cookbooks the Berkshelf Way - [Part 1](http://misheska.com/blog/2013/06/16/getting-started-writing-chef-cookbooks-the-berkshelf-way/) and [Part 2](http://misheska.com/blog/2013/06/23/getting-started-writing-chef-cookbooks-the-berkshelf-way-part2/)
 * [ewma](https://vividcortex.com/blog/2013/07/23/a-fast-go-library-for-exponential-moving-averages/) a fast Go library for exponential moving average recently open sourced by our friends at [VividCortex](https://vividcortex.com/)
+* [Foodcritc needs a logo!](http://99designs.com/logo-design/contests/open-source-tool-foodcritic-needs-logo-opschef-234811) - Share your design skills and help rate the proposed designs for a Foodcritic logo.
 
 #### Chef 11.6.0 
 * [Chef Client 11.6.0, Ohai 6.18.0, and more!](http://www.opscode.com/blog/2013/07/23/chef-client-11-6-0-ohai-6-18-0-and-more/) - A blog post highlighting many of the changes and linking to a bunch of related resources.
