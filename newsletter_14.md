@@ -57,8 +57,8 @@ Cookbook News<a name="cookbooks"></a>
 ### Stats
 
 Cookbooks on the [Community Site](http://community.opscode.com) - 1057  
-Knife Plugins on [RubyGems.org](http://rubygems.org) - 127  
-Chef Gems available on [RubyGems.org](http://rubygems.org) - 178  
+Knife Plugins on [RubyGems.org](http://rubygems.org) - 138  
+Chef Gems available on [RubyGems.org](http://rubygems.org) - 179  
 
 ### New Cookbooks
 * [berkshelf](http://community.opscode.com/cookbooks/berkshelf) - [reset](http://community.opscode.com/users/reset) - Installs/Configures berkshelf
@@ -277,6 +277,49 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 178
 
 
 ### New and Updated Chef and Knife Gems
+
+* [berkshelf-api](http://rubygems.org/gems/berkshelf-api) (0.2.0) - Berkshelf dependency API server
+* [berkshelf-shims](http://rubygems.org/gems/berkshelf-shims) (0.1.2) - Shim functionality for Berkshelf
+* [berkshelf](http://rubygems.org/gems/berkshelf) (2.0.7) - Manages a Cookbook's, or an Application's, Cookbook dependencies
+* [busser-serverspec](http://rubygems.org/gems/busser-serverspec) (0.2.3) - A Busser runner plugin for Serverspec
+* [capichef](http://rubygems.org/gems/capichef) (0.0.1) - Allows capistrano to use Chef data, roles and environments for deployment. Provides basics tasks to upgrade server with chef
+* [chef-handler-users](http://rubygems.org/gems/chef-handler-users) (0.1.2) - Chef Handler that generates and sends email on any change to users
+* [chef-helpers](http://rubygems.org/gems/chef-helpers) (0.0.7) - A collection of helper methods to use in Opscode Chef recipes
+* [chef-serverspec-handler](http://rubygems.org/gems/chef-serverspec-handler) (0.0.0) - convert chef recipe resources into serverspec examples
+* [chef-silent](http://rubygems.org/gems/chef-silent) (0.0.5) - Silent formatters for chef-client
+* [chef-solo-enc](http://rubygems.org/gems/chef-solo-enc) (0.1.0) - External Node Classifiers for chef-solo.
+* [chef-undev](http://rubygems.org/gems/chef-undev) (0.0.7) - Chef client patches for undev
+* [chef-vault](http://rubygems.org/gems/chef-vault) (1.2.5) - Data encryption support for chef using data bags
+* [chef-zero](http://rubygems.org/gems/chef-zero) (1.5.4) - Self-contained, easy-setup, fast-start in-memory Chef server for testing and solo setup purposes
+* [chef](http://rubygems.org/gems/chef) (11.6.0) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
+* [chefenv](http://rubygems.org/gems/chefenv) (0.2.0) - Manage your current Chef server endpoint
+* [fog](http://rubygems.org/gems/fog) (1.14.0) - The Ruby cloud services library.
+* [foodcritic](http://rubygems.org/gems/foodcritic) (2.2.0) - Lint tool for Opscode Chef cookbooks.
+* [kitchen-all](http://rubygems.org/gems/kitchen-all) (0.2.0) - A Test Kitchen driver that includes all the drivers known to man/computer
+* [kitchen-docker](http://rubygems.org/gems/kitchen-docker) (0.5.0) - A Test Kitchen Driver for Docker
+* [kitchen-ec2](http://rubygems.org/gems/kitchen-ec2) (0.6.0) - Kitchen::Driver::Ec2 - A Test Kitchen Driver for Ec2
+* [kitchen-scribe](http://rubygems.org/gems/kitchen-scribe) (0.3.0) - Knife plugin for tracking your chef configuration changes
+* [kitchen-vagrant](http://rubygems.org/gems/kitchen-vagrant) (0.11.0) - Kitchen::Driver::Vagrant - A Vagrant Driver for Test Kitchen.
+* [kitchen-zcloudjp](http://rubygems.org/gems/kitchen-zcloudjp) (0.2.2) - A Test Kitchen Driver for Zcloudjp
+* [knife-bootstrapsync](http://rubygems.org/gems/knife-bootstrapsync) (1.0.2) - Bootstrap directory sync
+* [knife-briefcase](http://rubygems.org/gems/knife-briefcase) (0.1.0) - Knife plugin to store GPG-encrypted data in Chef data bag
+* [knife-cloudstack-fog](http://rubygems.org/gems/knife-cloudstack-fog) (0.3.4) - Support for the Chef Knife command, leveraging FOG, for the Apache CloudStack / Citrix CloudPlatform API
+* [knife-cookbook-readme](http://rubygems.org/gems/knife-cookbook-readme) (0.1.2) - Knife plugin to generate README.md from metadata.rb
+* [knife-dns-update](http://rubygems.org/gems/knife-dns-update) (0.0.1) - Updates DNS based on Chef database
+* [knife-graph](http://rubygems.org/gems/knife-graph) (0.0.4) - Plugin that exports Chef installations structure in a graph
+* [knife-nodefu](http://rubygems.org/gems/knife-nodefu) (0.4.2) - A knife plugin for simple node creation automation
+* [knife-profitbricks](http://rubygems.org/gems/knife-profitbricks) (0.2.5) - This is a knife plugin to create, bootstrap and manage servers on the Profitbricks IaaS.
+* [knife-remotelxc](http://rubygems.org/gems/knife-remotelxc) (0.1.0) - Remote LXC
+* [knife-reporting](http://rubygems.org/gems/knife-reporting) (0.1.1) - Knife plugin for OpsCode Reporting
+* [knife-role-convert](http://rubygems.org/gems/knife-role-convert) (0.0.1) - Knife plugin for converting roles to role cookbooks
+* [knife-s3](http://rubygems.org/gems/knife-s3) (0.0.3) - S3 Support for Chef's Knife Command
+* [knife-sce](http://rubygems.org/gems/knife-sce) (0.2.0) - IBM SCE tools for Chef's knife
+* [knife-sharp](http://rubygems.org/gems/knife-sharp) (0.4.2) - Sharpen your knife
+* [rake-remote_chef](http://rubygems.org/gems/rake-remote_chef) (0.0.4) - Execute chef-solo with Rake::RemoteTask to remote host.
+* [ridley](http://rubygems.org/gems/ridley) (1.4.0) - A reliable Chef API client with a clean syntax
+* [strainer](http://rubygems.org/gems/strainer) (3.0.5) - Run isolated cookbook tests against your chef repository with Strainer.
+* [vagrant-berkshelf](http://rubygems.org/gems/vagrant-berkshelf) (1.3.3) - A Vagrant plugin to add Berkshelf integration to the Chef provisioners
+* [vagrant-chef-zero](http://rubygems.org/gems/vagrant-chef-zero) (0.2.10) - Enables Vagrant to interact with Chef Zero
 
 <hr />
 The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryanwb) and [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
