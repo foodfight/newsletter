@@ -64,24 +64,24 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 179
 * [berkshelf](http://community.opscode.com/cookbooks/berkshelf) - [reset](http://community.opscode.com/users/reset) - Installs/Configures berkshelf
 * [ceph](http://community.opscode.com/cookbooks/ceph) - [guilhemfr](http://community.opscode.com/users/guilhemfr) - Installs/Configures the Ceph distributed filesystem
 * [cloudwatch_monitoring](http://community.opscode.com/cookbooks/cloudwatch_monitoring) - [alexismidon](http://community.opscode.com/users/alexismidon) - cloudwatch_monitoring installs the Amazon CloudWatch Monitoring Scripts for Linux - custom metrics that reports memory, swap, and disk space utilization metrics.
-* [echa-oracle](http://community.opscode.com/cookbooks/echa-oracle) - [aririikonen](http://community.opscode.com/users/aririikonen) - Installs/Configures Oracle on CentOS 6.4
-* [gallery](http://community.opscode.com/cookbooks/gallery) - [garrison](http://community.opscode.com/users/garrison) - Installs/Configures gallery 3
+* [echa-oracle](http://community.opscode.com/cookbooks/echa-oracle) - [aririikonen](http://community.opscode.com/users/aririikonen) - Installs and configures the Oracle RDBMS, patches it to the latest version, and creates databases.
+* [gallery](http://community.opscode.com/cookbooks/gallery) - [garrison](http://community.opscode.com/users/garrison) - Installs and configures [Gallery v3.0.x](http://galleryproject.org/), a web based (LAMP) Image/Video/File gallery
 * [gem_server](http://community.opscode.com/cookbooks/gem_server) - [reset](http://community.opscode.com/users/reset) - Installs and configures a geminabox rubygems server
-* [git-annex](http://community.opscode.com/cookbooks/git-annex) - [mpasternacki](http://community.opscode.com/users/mpasternacki) - Installs git-annex
-* [hypertable](http://community.opscode.com/cookbooks/hypertable) - [llonchj](http://community.opscode.com/users/llonchj) - Installs/Configures hypertable
-* [nad](http://community.opscode.com/cookbooks/nad) - [clintoncwolfe](http://community.opscode.com/users/clintoncwolfe) - nad (nodejs monitoring agent)
+* [git-annex](http://community.opscode.com/cookbooks/git-annex) - [mpasternacki](http://community.opscode.com/users/mpasternacki) - This cookbook installs [git-annex](https://github.com/3ofcoins/chef-cookbook-git-annex/) on Debian, Ubuntu, and MacOS.
+* [hypertable](http://community.opscode.com/cookbooks/hypertable) - [llonchj](http://community.opscode.com/users/llonchj) - Installs/Configures [hypertable](http://www.hypertable.org/)
+* [nad](http://community.opscode.com/cookbooks/nad) - [clintoncwolfe](http://community.opscode.com/users/clintoncwolfe) - Install and configure [nad](https://github.com/circonus-labs/nad), a nodejs-based monitoring agent.
 * [nodejs-windows](http://community.opscode.com/cookbooks/nodejs-windows) - [nagalakshmi_n](http://community.opscode.com/users/nagalakshmi_n) - Installs/Configures Node.js
 * [p2p-network](http://community.opscode.com/cookbooks/p2p-network) - [guilhemfr](http://community.opscode.com/users/guilhemfr) - Configure an p2p network between nodes
 * [rackspace-dns](http://community.opscode.com/cookbooks/rackspace-dns) - [danielgivens](http://community.opscode.com/users/danielgivens) - Manages DNS records and zones in Rackspace Cloud DNS
-* [railsbox](http://community.opscode.com/cookbooks/railsbox) - [zhiping](http://community.opscode.com/users/zhiping) - auto deploy railsapp with rbenv+nginx+unicorn+postgresql
+* [railsbox](http://community.opscode.com/cookbooks/railsbox) - [zhiping](http://community.opscode.com/users/zhiping) - auto deploy railsapp with rbenv, nginx, unicorn, and postgresql
 * [redis_2_cookbook](http://community.opscode.com/cookbooks/redis_2_cookbook) - [inokara](http://community.opscode.com/users/inokara) - Installs/Configures setup
-* [ruby_install](http://community.opscode.com/cookbooks/ruby_install) - [rosstimson](http://community.opscode.com/users/rosstimson) - Installs/Configures ruby-install
+* [ruby_install](http://community.opscode.com/cookbooks/ruby_install) - [rosstimson](http://community.opscode.com/users/rosstimson) - Installs [ruby-install](https://github.com/postmodern/ruby-install), a simple way to build Rubies and the natural companion to [chruby](https://github.com/postmodern/chruby).
 * [sendmail](http://community.opscode.com/cookbooks/sendmail) - [dabl_web](http://community.opscode.com/users/dabl_web) - Installs/Configures sendmail
 * [sysfs](http://community.opscode.com/cookbooks/sysfs) - [guilhemfr](http://community.opscode.com/users/guilhemfr) - Configures sysfs parameters
 * [tinc](http://community.opscode.com/cookbooks/tinc) - [guilhemfr](http://community.opscode.com/users/guilhemfr) - Installs/Configures tinc
-* [tunnel](http://community.opscode.com/cookbooks/tunnel) - [guilhemfr](http://community.opscode.com/users/guilhemfr) - Configure tunnel ipip/...
+* [tunnel](http://community.opscode.com/cookbooks/tunnel) - [guilhemfr](http://community.opscode.com/users/guilhemfr) - Chef cookbook to manage and install ipip network between nodes.
 * [ut_workstation](http://community.opscode.com/cookbooks/ut_workstation) - [fnichol](http://community.opscode.com/users/fnichol) - Unicorn Tears Workstation
-* [vagabond](http://community.opscode.com/cookbooks/vagabond) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - A fabulous new cookbook
+* [vagabond](http://community.opscode.com/cookbooks/vagabond) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - This cookbooks is used internally by the vagabond project. It's general intention is to be used in that fashion, but if you want to do something else with it, go nuts.
 
 
 ### Updated Cookbooks
