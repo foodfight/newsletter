@@ -53,7 +53,11 @@ Meetup with people in your neighborhood at one of the following meetup groups.
 
 #### Speaking Opportunities
 
-You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences?  CFPs are closing soon so submit your talk today!
+You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to [one of these conferences](http://wiki.opscode.com/display/chef/Technical+Conferences)?  CFPs are closing soon so [submit your talk today](http://wiki.opscode.com/display/chef/Technical+Conferences)!
+
+* [Open Source Software For Business](http://www.oss4b.it/) (OSS4B) - Tuscany, Italy - CFP closes July 29
+* [Rails Israel 2013](http://railsisrael2013.events.co.il/) - Tel Aviv, Israel - CFP closes August 31
+* [DevOpsDays NYC](http://devopsdays.org/events/2013-newyork/) - New York, NY - CFP closes September 1
 
 ###  Special Offers
 
