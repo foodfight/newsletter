@@ -17,6 +17,15 @@ We are preparing episodes on the following topics and would love your help gener
 In the News
 -----------
 
+* [Upcoming Hosted Chef Database Maintenance](http://opscode.tumblr.com/post/56280725759/upcoming-database-server-maintenance) - Thursday, 25 July 2013 from 21:00 PDT to 23:00 PDT
+* [ewma](https://vividcortex.com/blog/2013/07/23/a-fast-go-library-for-exponential-moving-averages/) a fast Go library for exponential moving average recently open sourced by our friends at [VividCortex](https://vividcortex.com/)
+* [Opinionated Infrastructure Hangout: DevOps and Continuous Delivery leveraging Cloud](http://www.youtube.com/watch?v=ikrLxaJDNtY)
+* Getting Started Writing Chef Cookbooks the Berkshelf Way - [Part 1](http://misheska.com/blog/2013/06/16/getting-started-writing-chef-cookbooks-the-berkshelf-way/) and [Part 2](http://misheska.com/blog/2013/06/23/getting-started-writing-chef-cookbooks-the-berkshelf-way-part2/)
+
+### Chef 11.6.0 
+* [Chef Client 11.6.0, Ohai 6.18.0, and more!](http://www.opscode.com/blog/2013/07/23/chef-client-11-6-0-ohai-6-18-0-and-more/) - A blog post highlighting many of the changes and linking to a bunch of related resources.
+* Documentation for the latest version of Chef, 11.6.0, is now available at [docs.opscode.com](http://docs.opscode.com).  Documentation for versions 11.0, 11.2, and 11.4 are now also available at [docs.opscode.com/chef/release/11-4/](http://docs.opscode.com/chef/release/11-4/). 
+
 ### Upcoming Meetup Groups and Events
 
 #### New Meetup Groups
@@ -297,9 +306,9 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 179
 * [foodcritic](http://rubygems.org/gems/foodcritic) (2.2.0) - Lint tool for Opscode Chef cookbooks.
 * [kitchen-all](http://rubygems.org/gems/kitchen-all) (0.2.0) - A Test Kitchen driver that includes all the drivers known to man/computer
 * [kitchen-docker](http://rubygems.org/gems/kitchen-docker) (0.5.0) - A Test Kitchen Driver for Docker
-* [kitchen-ec2](http://rubygems.org/gems/kitchen-ec2) (0.6.0) - Kitchen::Driver::Ec2 - A Test Kitchen Driver for Ec2
+* [kitchen-ec2](http://rubygems.org/gems/kitchen-ec2) (0.6.0) - Kitchen::Driver::Ec2 - A Test Kitchen Driver for Ec2. [CHANGELOG](https://github.com/opscode/kitchen-ec2/blob/master/CHANGELOG.md#060--2013-07-23)
 * [kitchen-scribe](http://rubygems.org/gems/kitchen-scribe) (0.3.0) - Knife plugin for tracking your chef configuration changes
-* [kitchen-vagrant](http://rubygems.org/gems/kitchen-vagrant) (0.11.0) - Kitchen::Driver::Vagrant - A Vagrant Driver for Test Kitchen.
+* [kitchen-vagrant](http://rubygems.org/gems/kitchen-vagrant) (0.11.0) - Kitchen::Driver::Vagrant - A Vagrant Driver for Test Kitchen. [CHANGELOG](https://github.com/opscode/kitchen-vagrant/blob/master/CHANGELOG.md#0110--2013-07-23)
 * [kitchen-zcloudjp](http://rubygems.org/gems/kitchen-zcloudjp) (0.2.2) - A Test Kitchen Driver for Zcloudjp
 * [knife-bootstrapsync](http://rubygems.org/gems/knife-bootstrapsync) (1.0.2) - Bootstrap directory sync
 * [knife-briefcase](http://rubygems.org/gems/knife-briefcase) (0.1.0) - Knife plugin to store GPG-encrypted data in Chef data bag
@@ -319,6 +328,7 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 179
 * [ridley](http://rubygems.org/gems/ridley) (1.4.0) - A reliable Chef API client with a clean syntax
 * [spiceweasel](http://rubygems.org/gems/spiceweasel) (2.5.0) - Provides a CLI tool for generating knife commands to build Chef-managed infrastructure from a simple JSON or YAML file.
 * [strainer](http://rubygems.org/gems/strainer) (3.0.5) - Run isolated cookbook tests against your chef repository with Strainer.
+* [test-kitchen](https://github.com/opscode/test-kitchen/blob/master/CHANGELOG.md#100beta1--2013-07-23) (1.0.0.beta.1)
 * [vagrant-berkshelf](http://rubygems.org/gems/vagrant-berkshelf) (1.3.3) - A Vagrant plugin to add Berkshelf integration to the Chef provisioners
 * [vagrant-chef-zero](http://rubygems.org/gems/vagrant-chef-zero) (0.2.10) - Enables Vagrant to interact with Chef Zero
 
