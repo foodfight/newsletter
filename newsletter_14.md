@@ -31,6 +31,7 @@ In the News
 
 #### New Meetup Groups
 
+* [Paris Chef User Group](http://www.meetup.com/chef-paris/) - Paris, France
 * [DevOps Columbus](http://www.meetup.com/DevOps-Columbus/) - Columbus, OH
 
 Meetup with people in your neighborhood at one of the following meetup groups.
