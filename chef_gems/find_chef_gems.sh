@@ -12,3 +12,4 @@ gem search -r busser | grep -v REMOTE | awk NF
 gem search -r emeril | grep -v REMOTE | awk NF
 gem search -r '^fog$' | grep -v REMOTE | awk NF
 gem search -r '^right_aws$' | grep -v REMOTE | awk NF
+gem search -r 'spiceweasel' | grep -v REMOTE | awk NF
