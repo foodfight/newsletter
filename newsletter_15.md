@@ -30,7 +30,9 @@ You've got a great story or two to share about Chef and how automation has trans
 
 Chef training in Europe! - Join us September 12-13 in München, Germany for a [Chef 2 Day Fundamentals Workshop](http://www.eventbrite.de/event/7310169915/?discount=FOODFIGHT).  Discount code [FOODFIGHT](http://www.eventbrite.de/event/7310169915/?discount=FOODFIGHT) saves you 100 Euro!
 
-Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in DC, San Francisco, Boston, Portland, New York, Philadelphia, Austin, Chicago, Miami, Los Angeles, Denver, and Atlanta.  
+Free Chef training when you purchase a ticket for Surge!  Register for this year's [Surge Conference](http://surge.omniti.com/2013) and you'll be able to attend the [2 Day Chef Fundamentals Workshop](http://www.eventbrite.com/event/7431534921/) being held a few days before the conference begins.
+
+Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in [Toronto](http://www.eventbrite.com/event/7054065901?discount=FOODFIGHT), [Denver](http://www.eventbrite.com/event/7400686653?discount=FOODFIGHT), [Boston](http://www.eventbrite.com/event/7431424591?discount=FOODFIGHT), [DC](http://www.eventbrite.com/event/7431534921?discount=FOODFIGHT),and [San Francisco](http://www.eventbrite.com/event/7400807013?discount=FOODFIGHT).
 
 Cookbook News<a name="cookbooks"></a>
 -------------
