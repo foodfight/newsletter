@@ -69,9 +69,50 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 181
 
 ### New Cookbooks
 
+* [chef-sbt](http://community.opscode.com/cookbooks/chef-sbt) - [farmdawgnation](http://community.opscode.com/users/farmdawgnation) - Installs the sbt version you request from manual download.
+* [mysqld](http://community.opscode.com/cookbooks/mysqld) - [chr4](http://community.opscode.com/users/chr4) - Installs/Configures mysqld, only changing explicitly given options from the systems defaults
 * [nexenta_base](https://github.com/schubergphilis/nexenta_base) - [schubergphilis](https://github.com/schubergphilis) - Cookbook to manage configuration settings of NexentaStor ZFS based storage systems
+* [openldap-server](http://community.opscode.com/cookbooks/openldap-server) - [cpuguy83](http://community.opscode.com/users/cpuguy83) - Installs/Configures ldap
+* [oracle-instantclient](http://community.opscode.com/cookbooks/oracle-instantclient) - [dunnj](http://community.opscode.com/users/dunnj) - This cookbook is used to configure a system with the Oracle Instant Client and, optionally, SQL*Plus. The primary objective is to let you interact with remote Oracle servers easily.
+* [oracle-xe](http://community.opscode.com/cookbooks/oracle-xe) - [dunnj](http://community.opscode.com/users/dunnj) - This cookbook is used to configure a system with Oracle Express Edition 11g.
+* [php-box](http://community.opscode.com/cookbooks/php-box) - [r8](http://community.opscode.com/users/r8) - This cookbook provides an easy way to install Box CLI — tool that simplifies the Phar building process.
+* [php_backup_s3](http://community.opscode.com/cookbooks/php_backup_s3) - [ianneub](http://community.opscode.com/users/ianneub) - This cookbook assists with the usage and deployment of [phpBackupS3](https://github.com/ianneub/php_backup_s3).
+* [ut_base](http://community.opscode.com/cookbooks/ut_base) - [fnichol](http://community.opscode.com/users/fnichol) - Chef cookbook for a Unicorn Tears baseline node.
 
 ### Updated Cookbooks
+
+* [apache2_odin_auth](http://community.opscode.com/cookbooks/apache2_odin_auth) - (0.1.2)
+* [application](http://community.opscode.com/cookbooks/application) - (3.0.0)
+* [application_java](http://community.opscode.com/cookbooks/application_java) - (2.0.0)
+* [application_nginx](http://community.opscode.com/cookbooks/application_nginx) - (2.0.0)
+* [application_php](http://community.opscode.com/cookbooks/application_php) - (2.0.0)
+* [application_python](http://community.opscode.com/cookbooks/application_python) - (2.0.0)
+* [application_ruby](http://community.opscode.com/cookbooks/application_ruby) - (2.0.0)
+* [application_zf](http://community.opscode.com/cookbooks/application_zf) - (0.4.0)
+* [circonus](http://community.opscode.com/cookbooks/circonus) - (0.0.7)
+* [couchbase](http://community.opscode.com/cookbooks/couchbase) - (1.1.0)
+* [drupal](http://community.opscode.com/cookbooks/drupal) - (1.1.0)
+* [elasticsearch](http://community.opscode.com/cookbooks/elasticsearch) - (0.3.2)
+* [god](http://community.opscode.com/cookbooks/god) - (1.0.2)
+* [htop](http://community.opscode.com/cookbooks/htop) - (1.1.0)
+* [kafka](http://community.opscode.com/cookbooks/kafka) - (1.0.20)
+* [loggly](http://community.opscode.com/cookbooks/loggly) - (0.1.1)
+* [nad](http://community.opscode.com/cookbooks/nad) - (0.0.5)
+* [opencv](http://community.opscode.com/cookbooks/opencv) - (0.0.4)
+* [python](http://community.opscode.com/cookbooks/python) - (1.3.6)
+* [rackspace-dns](http://community.opscode.com/cookbooks/rackspace-dns) - (1.0.0)
+* [redisio](http://community.opscode.com/cookbooks/redisio) - (1.7.0)
+* [s3fs](http://community.opscode.com/cookbooks/s3fs) - (1.1.0)
+* [sidekiq](http://community.opscode.com/cookbooks/sidekiq) - (0.4.0)
+* [smf](http://community.opscode.com/cookbooks/smf) - (1.5.0)
+* [spark](http://community.opscode.com/cookbooks/spark) - (1.0.1)
+* [stash](http://community.opscode.com/cookbooks/stash) - (2.15.0)
+* [storm](http://community.opscode.com/cookbooks/storm) - (1.0.30)
+* [sudo](http://community.opscode.com/cookbooks/sudo) - (2.1.4)
+* [tunnel](http://community.opscode.com/cookbooks/tunnel) - (0.0.3)
+* [ut_workstation](http://community.opscode.com/cookbooks/ut_workstation) - (1.0.2)
+* [zookeeperd](http://community.opscode.com/cookbooks/zookeeperd) - (0.1.2)
+
 
 ### New and Updated Chef and Knife Gems
 
