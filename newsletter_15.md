@@ -30,15 +30,19 @@ Meetup with people in your neighborhood at one of the following meetup groups.
 * 7-Aug - [DevOps Minneapolis](http://www.meetup.com/DevOps-Minneapolis/events/117774392/) - Culture or Monitoring?
 * 12-Aug - [Austin DevOps](http://www.meetup.com/austin-devops/events/128734812/) - Discussion: Code from concept to production
 * 13-Aug - [Infrastructure Coders](http://www.meetup.com/Infrastructure-Coders/events/127899532/) - August Meetup
+* 13-Aug - [DevOpsDC](http://www.meetup.com/DevOpsDC/events/132523682/) - August Meetup
 * 14-Aug - [Bucks County DevOps](http://www.meetup.com/Bucks-County-DevOps/) - Vagrant - Lightweight, Reproducible, Portable Development Environments
+* 14-Aug - [Triangle DevOps](http://www.meetup.com/Triangle-DevOps/events/130823192/) - Let's Learn About DevOps From Gene Kim
 * 15-Aug - [DevOpsATL](http://www.meetup.com/DevOpsATL/events/126575132/) - Monthly Meetup
 * 15-Aug - [DevOps Columbus](http://www.meetup.com/DevOps-Columbus/events/129274502/)
 * 20-Aug - [Chef-BOSTON](http://www.meetup.com/Chef-BOSTON/events/114191092/) - August Meetup
 * 20-Aug - [Opscode Chef Meetup](http://www.meetup.com/Opscode-Chef-Meetup/events/129064862/) - Chef Vault
+* 21-Aug - [SDDevOps Monthly Meeting](http://www.meetup.com/sddevops/events/117878422/) - San Diego
 
 * **Chef Cafes** - Have questions about Chef? Are you doing some cool stuff with Chef and what to share it with others chefs?  Stop by a Chef Cafe in your area.
   * 1-Aug - [Mountain View](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/124327262/)
   * 8-Aug - [Chicago](http://www.meetup.com/Chicago-Chef-User-Group/events/130324482/)
+  * 21-Aug - [Austin](http://www.meetup.com/austin-devops/events/131560252/)
   * 21-Aug - [San Francisco](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/109961922/)
 
 #### Speaking Opportunities
