@@ -63,9 +63,9 @@ Cookbook News<a name="cookbooks"></a>
 -------------
 ### Stats
 
-Cookbooks on the [Community Site](http://community.opscode.com) - 984  
-Knife Plugins on [RubyGems.org](http://rubygems.org) - 127  
-Chef Gems available on [RubyGems.org](http://rubygems.org) - 178  
+Cookbooks on the [Community Site](http://community.opscode.com) - 1066  
+Knife Plugins on [RubyGems.org](http://rubygems.org) - 138  
+Chef Gems available on [RubyGems.org](http://rubygems.org) - 181  
 
 ### New Cookbooks
 
@@ -74,6 +74,18 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 178
 ### Updated Cookbooks
 
 ### New and Updated Chef and Knife Gems
+
+* [chef-bones](http://rubygems.org/gems/chef-bones) (0.1.2) - Skeleton for a testable Chef cookbook
+* [chef-handler-sensu](http://rubygems.org/gems/chef-handler-sensu) (0.2.1) - Cleans up old Sensu checks during a Chef run
+* [kitchen-zcloudjp](http://rubygems.org/gems/kitchen-zcloudjp) (0.3.0) - A Test Kitchen Driver for Zcloudjp
+* [knife-block](http://rubygems.org/gems/knife-block) (0.0.7) - Create and manage knife.rb files for OpsCodes' Chef
+* [knife-sce](http://rubygems.org/gems/knife-sce) (0.3.0) - Knife IBM SCE Extensions: IBM SCE tools for Chef's knife.
+* [knife-server](http://rubygems.org/gems/knife-server) (1.1.0) - Chef Knife plugin to bootstrap Chef Servers
+* [knife-xapi](http://rubygems.org/gems/knife-xapi) (0.5.4) - Xen API Support for Chef's Knife Command
+* [ridley](http://rubygems.org/gems/ridley) (1.4.1) - A reliable Chef API client with a clean syntax
+* [spiceweasel](http://rubygems.org/gems/spiceweasel) (2.5.1) - Provides a CLI tool for generating knife commands to build Chef-managed infrastructure from a simple JSON or YAML file.
+* [strainer](http://rubygems.org/gems/strainer) (3.1.1) - Run isolated cookbook tests against your chef repository with Strainer.
+* [vagrant-chef-zero](http://rubygems.org/gems/vagrant-chef-zero) (0.3.0) - Enables Vagrant to interact with Chef Zero
 
 <hr />
 The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryanwb) and [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
