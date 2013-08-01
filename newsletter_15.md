@@ -28,6 +28,8 @@ You've got a great story or two to share about Chef and how automation has trans
 
 #### Opscode Training
 
+Chef training in Europe! - Join us September 12-13 in München, Germany for a [Chef 2 Day Fundamentals Workshop](http://www.eventbrite.de/event/7310169915/?discount=FOODFIGHT).  Discount code [FOODFIGHT](http://www.eventbrite.de/event/7310169915/?discount=FOODFIGHT) saves you 100 Euro!
+
 Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in DC, San Francisco, Boston, Portland, New York, Philadelphia, Austin, Chicago, Miami, Los Angeles, Denver, and Atlanta.  
 
 Cookbook News<a name="cookbooks"></a>
