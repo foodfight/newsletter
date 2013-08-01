@@ -16,6 +16,11 @@ We are preparing episodes on the following topics and would love your help gener
 In the News
 -----------
 
+* [Opscode Community Summit](https://www.regonline.com/opscodesummit-2013) - Join us November 12-13 in Seattle to share your ideas, triumphs, and challenges with Chef or other personal projects.  Space is limited so [register today](https://www.regonline.com/opscodesummit-2013)!
+* [Vagrant 1.2.5](https://github.com/mitchellh/vagrant/blob/v1.2.5/CHANGELOG.md) has been released.  Checkout the [CHANGELOG](https://github.com/mitchellh/vagrant/blob/v1.2.5/CHANGELOG.md) for new features, improvements, and bugfixes.
+* Chapter 2 of Andy Gale's [Getting started with Chef](http://gettingstartedwithchef.com/chapter-two.html) has been published.
+* [AWS OpsWorks Update - Custom AMIs and Chef 11 Support](http://aws.typepad.com/aws/2013/07/aws-opsworks-update-custom-amis-and-chef-11-support.html) - AWS has announced support for Chef 11 in Opsworks.
+
 ### Upcoming Meetup Groups and Events
 
 #### New Meetup Groups
@@ -47,6 +52,10 @@ Meetup with people in your neighborhood at one of the following meetup groups.
 #### Speaking Opportunities
 
 You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences?  CFPs are closing soon so submit your talk today!
+
+* [Open Source Software For Business](http://www.oss4b.it/) (OSS4B) - Tuscany, Italy - CFP closes August 5
+* [Rails Israel 2013](http://railsisrael2013.events.co.il/) - Tel Aviv, Israel - CFP closes August 31
+* [DevOpsDays NYC](http://devopsdays.org/events/2013-newyork/) - New York, NY - CFP closes September 1
 
 ###  Special Offers
 
