@@ -2,17 +2,16 @@ Food Fight Show News
 -------------------
 
 ### Latest Episodes
-* 
-* 
-*
-
+* Immutable Infrastructure - [website](http://foodfightshow.org/2013/07/immutable-infrastructure.html) | [YouTube](http://www.youtube.com/watch?v=G92dPaluEwo)
+* Secret Chef - [website](http://foodfightshow.org/2013/07/secret-chef.html) | [YouTube](http://www.youtube.com/watch?v=HL59_dot9zw)
+* Erlang Eye for the DevOps Guy and Gal - [website](http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html) | [YouTube](http://www.youtube.com/watch?v=7WqczWKwWOU)
 
 ### Upcoming Episodes
 We are preparing episodes on the following topics and would love your help generating questions, identifying panelists, etc.
 
-* 
-* 
-* 
+* [Packer](https://github.com/foodfight/showz/blob/master/scripts/episode-XX-packer.md) - [Wednesday, August 14, 2013 at 16:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Packer&iso=20130814T12&p1=1928&ah=1)
+* [Chef and Openstack](https://github.com/foodfight/showz/blob/master/scripts/episode-XX-openstack.md) - [Monday, September 16, 2013 at 16:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Openstack&iso=20130916T12&p1=1928&ah=1)
+* [The Journey towards DevOps at Riot Games](https://github.com/foodfight/showz/blob/master/scripts/episode-59-devops-riot.md)
 
 In the News
 -----------
