@@ -67,6 +67,8 @@ Free Chef training when you purchase a ticket for Surge!  Register for this year
 
 Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in [Toronto](http://www.eventbrite.com/event/7054065901?discount=FOODFIGHT), [Denver](http://www.eventbrite.com/event/7400686653?discount=FOODFIGHT), [Boston](http://www.eventbrite.com/event/7431424591?discount=FOODFIGHT), [DC](http://www.eventbrite.com/event/7431534921?discount=FOODFIGHT),and [San Francisco](http://www.eventbrite.com/event/7400807013?discount=FOODFIGHT).
 
+[Aaron Peterson](http://twitter.com/metaxis) is also offering some three-day Chef Fundamentals classes in San Francisco.  Join him [August 7-9](http://www.eventbrite.com/event/5044781076/) or [November 20-22](http://www.eventbrite.com/event/7700461287/).
+
 Cookbook News<a name="cookbooks"></a>
 -------------
 ### Stats
