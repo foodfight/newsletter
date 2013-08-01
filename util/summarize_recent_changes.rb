@@ -8,8 +8,8 @@ require 'pp'
 @db = @con['opscode']
 @cookbooks = @db['cookbooks']
 
-number_cookbooks_last_edition = 1036
-number_cookbooks_now = 1057
+number_cookbooks_last_edition = 1057
+number_cookbooks_now = 1066
 number_new_cookbooks = number_cookbooks_now - number_cookbooks_last_edition
 
 lastest_cookbooks = @cookbooks.find.sort( [["created_at", -1 ]] ).limit(number_new_cookbooks)
