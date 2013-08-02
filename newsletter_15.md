@@ -44,7 +44,6 @@ Meetup with people in your neighborhood at one of the following meetup groups.
 * 21-Aug - [SDDevOps Monthly Meeting](http://www.meetup.com/sddevops/events/117878422/) - San Diego
 
 * **Chef Cafes** - Have questions about Chef? Are you doing some cool stuff with Chef and what to share it with others chefs?  Stop by a Chef Cafe in your area.
-  * 1-Aug - [Mountain View](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/124327262/)
   * 8-Aug - [Chicago](http://www.meetup.com/Chicago-Chef-User-Group/events/130324482/)
   * 21-Aug - [Austin](http://www.meetup.com/austin-devops/events/131560252/)
   * 21-Aug - [San Francisco](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/109961922/)
