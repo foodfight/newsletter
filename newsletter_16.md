@@ -72,12 +72,12 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 183
 
 ### New Cookbooks
 
-* [android-sdk](http://community.opscode.com/cookbooks/android-sdk) - [gildegoma](http://community.opscode.com/users/gildegoma) - Installs Google Android SDK
+* [android-sdk](http://community.opscode.com/cookbooks/android-sdk) - [gildegoma](http://community.opscode.com/users/gildegoma) - Installs [Google Android SDK](http://developer.android.com/sdk/index.html)
 * [etcd](http://community.opscode.com/cookbooks/etcd) - [spheromak](http://community.opscode.com/users/spheromak) - Installs etcd and upstart service on ubuntu and centos/rhel 6+
-* [forever](http://community.opscode.com/cookbooks/forever) - [dwradcliffe](http://community.opscode.com/users/dwradcliffe) - Chef cookbook for running node apps using forever.
-* [hello_world](http://community.opscode.com/cookbooks/hello_world) - [caryp](http://community.opscode.com/users/caryp) - Logs hello_world to the chef log
+* [forever](http://community.opscode.com/cookbooks/forever) - [dwradcliffe](http://community.opscode.com/users/dwradcliffe) - Chef cookbook for running node apps using [forever](https://github.com/nodejitsu/forever/).
+* [hello_world](http://community.opscode.com/cookbooks/hello_world) - [caryp](http://community.opscode.com/users/caryp) - Simple cookbook that supports using Berkshelf and Vagrant. Good for verifying your development environment is setup correctly for "[The Berkshelf Way](http://alluvium.com/blog/2013/05/03/the-application-cookbook-pattern-berkshelf-and-team-chef-workflow/)" or for validating new vagrant boxes.
 * [npm](http://community.opscode.com/cookbooks/npm) - [m0s](http://community.opscode.com/users/m0s) - Installs/Configures npm
-* [owncloud](http://community.opscode.com/cookbooks/owncloud) - [onddo](http://community.opscode.com/users/onddo) - Installs/Configures ownCloud, an open source personal cloud for data and file sync, share and view.
+* [owncloud](http://community.opscode.com/cookbooks/owncloud) - [onddo](http://community.opscode.com/users/onddo) - Installs/Configures [ownCloud](http://owncloud.org/), an open source personal cloud for data and file sync, share and view.
 * [percona-toolkit](http://community.opscode.com/cookbooks/percona-toolkit) - [bobloblaw](http://community.opscode.com/users/bobloblaw) - Installs Percona apt/yum repository and percona-toolkit package.
 * [run_action_now](http://community.opscode.com/cookbooks/run_action_now) - [binarybabel](http://community.opscode.com/users/binarybabel) - Provides helper function for easier immediate execution of Chef resources without bulky syntax.
 * [teamforge-tools](http://community.opscode.com/cookbooks/teamforge-tools) - [emcconne](http://community.opscode.com/users/emcconne) - Installs/Configures teamforge-tools
