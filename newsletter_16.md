@@ -16,7 +16,7 @@ We are preparing episodes on the following topics and would love your help gener
 In the News
 -----------
 
-* [Opscode Community Summit](https://www.regonline.com/opscodesummit-2013) - Join us November 12-13 in Seattle to share your ideas, triumphs, and challenges with Chef or other personal projects.  Space is limited so [register today](https://www.regonline.com/opscodesummit-2013)!
+* [Opscode Community Summit](http://wiki.opscode.com/display/chef/Community+Summit+3+-+2013) - Join us November 12-13 in Seattle to share your ideas, triumphs, and challenges with Chef or other personal projects.  Space is limited so [register today](https://www.regonline.com/opscodesummit-2013)!
 
 * [Free Tickets to RICON West Available](http://ricon.io/blog/2013-08-05-want-a-free-ricon-west-ticket.html) - Our friends at [Basho](http://basho.com/) have put out a bounty for making it easier to deploy Riak on SmartOS and OmniOS.  Check out the [blog post](http://ricon.io/blog/2013-08-05-want-a-free-ricon-west-ticket.html) for more details.
 * [Howto use chef with ssl](http://chr4.org/blog/2013/08/01/howto-use-chef-with-ssl/) - a blog post about adding custom SSL certificates to your Chef Server.
