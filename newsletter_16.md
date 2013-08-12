@@ -10,8 +10,8 @@ Food Fight Show News
 We are preparing episodes on the following topics and would love your help generating questions, identifying panelists, etc.
 
 * [Packer](https://github.com/foodfight/showz/blob/master/scripts/episode-XX-packer.md) - [Wednesday, August 14, 2013 at 16:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Packer&iso=20130814T12&p1=1928&ah=1)
+* [The Journey towards DevOps at Riot Games](https://github.com/foodfight/showz/blob/master/scripts/episode-59-devops-riot.md) - [Tuesday, August 20, 2013 at 17:00:00](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+DevOps+Riot%21&iso=20130820T13&p1=1928&ah=1)
 * [Chef and Openstack](https://github.com/foodfight/showz/blob/master/scripts/episode-XX-openstack.md) - [Monday, September 16, 2013 at 16:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Openstack&iso=20130916T12&p1=1928&ah=1)
-* [The Journey towards DevOps at Riot Games](https://github.com/foodfight/showz/blob/master/scripts/episode-59-devops-riot.md)
 
 In the News
 -----------
