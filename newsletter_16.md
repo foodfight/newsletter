@@ -22,6 +22,7 @@ In the News
 * [Howto use chef with ssl](http://chr4.org/blog/2013/08/01/howto-use-chef-with-ssl/) - a blog post about adding custom SSL certificates to your Chef Server.
 * [Black Hat Preview 2: Software Defined Security with AWS, Ruby, and Chef](https://securosis.com/blog/black-hat-preview-2-software-defined-security-with-aws-ruby-and-chef) - A detailed post from [Securosis](https://securosis.com/) about using Chef to help secure your infrastructure.
 * [how to write and install an Ohai plugin, the Fight Club way](http://ninefold.com/blog/cloud-programming/cloud-programming-part-four-how-to-write-and-install-an-ohai-plugin-the-fight-club-way/) - A blog post from [Warren Bain](https://twitter.com/thoughtcroft) about writing Ohai plugins.
+* [Sprout 0.1](http://sprout-talk.cfapps.io/) - A reworking of the Pivotal Workstation that's using the [soloist gem](http://rubygems.org/gems/soloist).  Checkout the [code on github](https://github.com/pivotal-sprout)
 
 
 ### Upcoming Meetup Groups and Events
