@@ -78,6 +78,23 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 183
 
 ### New and Updated Chef and Knife Gems
 
+* [berkshelf](http://rubygems.org/gems/berkshelf) (2.0.8) - Manages a Cookbook's, or an Application's, Cookbook dependencies
+* [capichef](http://rubygems.org/gems/capichef) (0.0.2) - Allows capistrano to use Chef data, roles and environments for deployment. Provides basics tasks to upgrade server with chef
+* [chef-zero](http://rubygems.org/gems/chef-zero) (1.5.5) - Self-contained, easy-setup, fast-start in-memory Chef server for testing and solo setup purposes
+* [guard-strainer](http://rubygems.org/gems/guard-strainer) (1.0.0) - Watch for changes in your chef-repo or cookbook and automatically run Strainer
+* [iron_chef](http://rubygems.org/gems/iron_chef) (0.0.11) - Iron Chef is a lightweight Chef Solo wrapper built as a capistrano plugin
+* [kitchen-vagrant_sandbox](http://rubygems.org/gems/kitchen-vagrant_sandbox) (0.1.1) - Kitchen::Driver::VagrantSandbox - A Vagrant Driver with sandbox for Test Kitchen. (Fork Version of Kitchen::Driver::Vagrant)
+* [knife-cfn](http://rubygems.org/gems/knife-cfn) (0.1.7) - CloudFormation Support for Chef's Knife Command
+* [knife-cloudformation](http://rubygems.org/gems/knife-cloudformation) (0.1.2) - Knife tooling for Cloud Formation
+* [knife-oktawave](http://rubygems.org/gems/knife-oktawave) (0.1.1) - This plugin extends Knife with the ability to manage Oktawave Cloud Instances (OCI).
+* [knife-oraclevm](http://rubygems.org/gems/knife-oraclevm) (0.0.4) - OracleVM Support for Chef's Knife Command
+* [knife-role-convert](http://rubygems.org/gems/knife-role-convert) (0.0.2) - knife plugin for converting roles to recipes
+* [knife-scrub](http://rubygems.org/gems/knife-scrub) (0.1.0) - Collection of knife plugins to remove orphaned objects from chef-server
+* [knife-solo](http://rubygems.org/gems/knife-solo) (0.3.0) - Handles bootstrapping, running chef solo, rsyncing cookbooks etc
+* [knife-tarsnap](http://rubygems.org/gems/knife-tarsnap) (0.1.2) - Knife plugin and Chef cookbook for managing tarsnap.
+* [knife-vsphere](http://rubygems.org/gems/knife-vsphere) (0.8.1) - VMware vSphere Support for Chef's Knife Command
+* [ridley](http://rubygems.org/gems/ridley) (1.5.1) - A reliable Chef API client with a clean syntax
+* [strainer](http://rubygems.org/gems/strainer) (3.2.1) - Run isolated cookbook tests against your chef repository with Strainer.
 
 <hr />
 The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryanwb) and [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
