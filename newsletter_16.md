@@ -66,9 +66,9 @@ Cookbook News<a name="cookbooks"></a>
 -------------
 ### Stats
 
-Cookbooks on the [Community Site](http://community.opscode.com) - 1066  
-Knife Plugins on [RubyGems.org](http://rubygems.org) - 138  
-Chef Gems available on [RubyGems.org](http://rubygems.org) - 181  
+Cookbooks on the [Community Site](http://community.opscode.com) - 1075  
+Knife Plugins on [RubyGems.org](http://rubygems.org) - 140  
+Chef Gems available on [RubyGems.org](http://rubygems.org) - 183  
 
 ### New Cookbooks
 
