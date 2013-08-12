@@ -20,27 +20,31 @@ In the News
 
 ### Upcoming Meetup Groups and Events
 
-#### New Meetup Groups
-
-* [Paris Chef User Group](http://www.meetup.com/chef-paris/) - Paris, France
-* [DevOps Columbus](http://www.meetup.com/DevOps-Columbus/) - Columbus, OH
-
 Meetup with people in your neighborhood at one of the following meetup groups.
 
 * 12-Aug - [Austin DevOps](http://www.meetup.com/austin-devops/events/128734812/) - Discussion: Code from concept to production
 * 13-Aug - [Infrastructure Coders](http://www.meetup.com/Infrastructure-Coders/events/127899532/) - August Meetup
+* 13-Aug - [nycdevops](http://www.meetup.com/nycdevops/events/132332812/) - Should I use the cloud?
 * 13-Aug - [DevOpsDC](http://www.meetup.com/DevOpsDC/events/132523682/) - August Meetup
 * 14-Aug - [Bucks County DevOps](http://www.meetup.com/Bucks-County-DevOps/) - Vagrant - Lightweight, Reproducible, Portable Development Environments
 * 14-Aug - [Triangle DevOps](http://www.meetup.com/Triangle-DevOps/events/130823192/) - Let's Learn About DevOps From Gene Kim
 * 15-Aug - [DevOpsATL](http://www.meetup.com/DevOpsATL/events/126575132/) - Monthly Meetup
-* 15-Aug - [DevOps Columbus](http://www.meetup.com/DevOps-Columbus/events/129274502/)
+* 15-Aug - [DevOps Columbus](http://www.meetup.com/DevOps-Columbus/events/129274502/) - DevOps Columbus, 0.2.0, DevOps & ITIL
 * 20-Aug - [Chef-BOSTON](http://www.meetup.com/Chef-BOSTON/events/114191092/) - August Meetup
 * 20-Aug - [Opscode Chef Meetup](http://www.meetup.com/Opscode-Chef-Meetup/events/129064862/) - Chef Vault
+* 21-Aug - [Chef-NYC](http://www.meetup.com/Chef-NYC/events/75978182/) - Chef Workshop
 * 21-Aug - [SDDevOps Monthly Meeting](http://www.meetup.com/sddevops/events/117878422/) - San Diego
+* 27-Aug - [Seattle DevOps](http://www.meetup.com/Seattle-DevOps-Meetup-Group/events/115144622/) - August Meetup
+* 03-Sep - [Infrastructure Coders](http://www.meetup.com/Infrastructure-Coders/events/131227872/) - September Meetup
+* 18-Sep - [Buck County DevOps](http://www.meetup.com/Bucks-County-DevOps/events/111698572/) - Getting started with Puppet
+* 18-Sep - [DevOps Chicago](http://www.meetup.com/devops/events/130276222/) - Culture as a Strategic Weapon
+* 18-Sep - [DevOps Minneapolis](http://www.meetup.com/DevOps-Minneapolis/events/130180722/) - Culture as a Strategic Weapon
 
 * **Chef Cafes** - Have questions about Chef? Are you doing some cool stuff with Chef and what to share it with others chefs?  Stop by a Chef Cafe in your area.
   * 21-Aug - [Austin](http://www.meetup.com/austin-devops/events/131560252/)
   * 21-Aug - [San Francisco](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/109961922/)
+  * 05-Sep - [Mountain View](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/124328702/)
+  * 12-Sep - [Chicago](http://www.meetup.com/Chicago-Chef-User-Group/events/dkcfndyrmbqb/)
 
 #### Speaking Opportunities
 
