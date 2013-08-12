@@ -18,6 +18,12 @@ In the News
 
 * [Opscode Community Summit](https://www.regonline.com/opscodesummit-2013) - Join us November 12-13 in Seattle to share your ideas, triumphs, and challenges with Chef or other personal projects.  Space is limited so [register today](https://www.regonline.com/opscodesummit-2013)!
 
+* [Free Tickets to RICON West Available](http://ricon.io/blog/2013-08-05-want-a-free-ricon-west-ticket.html) - Our friends at [Basho](http://basho.com/) have put out a bounty for making it easier to deploy Riak on SmartOS and OmniOS.  Check out the [blog post](http://ricon.io/blog/2013-08-05-want-a-free-ricon-west-ticket.html) for more details.
+* [Howto use chef with ssl](http://chr4.org/blog/2013/08/01/howto-use-chef-with-ssl/) - a blog post about adding custom SSL certificates to your Chef Server.
+* [Black Hat Preview 2: Software Defined Security with AWS, Ruby, and Chef](https://securosis.com/blog/black-hat-preview-2-software-defined-security-with-aws-ruby-and-chef) - A detailed post from [Securosis](https://securosis.com/) about using Chef to help secure your infrastructure.
+* [how to write and install an Ohai plugin, the Fight Club way](http://ninefold.com/blog/cloud-programming/cloud-programming-part-four-how-to-write-and-install-an-ohai-plugin-the-fight-club-way/) - A blog post from [Warren Bain](https://twitter.com/thoughtcroft) about writing Ohai plugins.
+
+
 ### Upcoming Meetup Groups and Events
 
 Meetup with people in your neighborhood at one of the following meetup groups.
