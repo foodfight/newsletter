@@ -72,6 +72,7 @@ Knife Plugins on [RubyGems.org](http://rubygems.org) - 140
 Chef Gems available on [RubyGems.org](http://rubygems.org) - 183  
 
 ### New Cookbooks
+* [chef-whitelist](https://github.com/etsy/chef-whitelist) - This library enables easy rollout of changes on a per host basis. The whitelist is stored in a data bag and can contain single hostnames or `roles`. Hostnames are checked first and can contain glob patterns to enable similarly named hostgroups. If none of the hostnames match, all roles in the roles array are checked whether the host has one of them applied.
 
 
 ### Updated Cookbooks
