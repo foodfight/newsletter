@@ -19,7 +19,7 @@ In the News
 
 * [Opscode Community Summit](http://wiki.opscode.com/display/chef/Community+Summit+3+-+2013) - Join us November 12-13 in Seattle to share your ideas, triumphs, and challenges with Chef or other personal projects.  Space is limited so [register today](https://www.regonline.com/opscodesummit-2013)!
 
-
+* [RightScale and Chef Integration: Cooking Up Better ServerTemplates](http://www.rightscale.com/blog/rightscale-news/rightscale-and-chef-integration-cooking-better-servertemplates) - RightScale is rolling out a number of changes to improve their integration with Chef.
 ### Upcoming Meetup Groups and Events
 
 Meetup with people in your neighborhood at one of the following meetup groups.
@@ -77,6 +77,8 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 183
 
 
 ### Updated Cookbooks
+
+* [newrelic](http://community.opscode.com/cookbooks/newrelic) - (0.5.2) - now also offers .NET application monitoring
 
 
 ### New and Updated Chef and Knife Gems
