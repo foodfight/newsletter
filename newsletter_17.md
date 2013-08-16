@@ -2,7 +2,7 @@ Food Fight Show News
 -------------------
 
 ### Latest Episodes
-* Packer - website | YouTube
+* Packer - [website](http://foodfightshow.org/2013/08/packer.html) | [YouTube](http://www.youtube.com/watch?v=MOCao3DeWSU)
 * Immutable Infrastructure - [website](http://foodfightshow.org/2013/07/immutable-infrastructure.html) | [YouTube](http://www.youtube.com/watch?v=G92dPaluEwo)
 * Secret Chef - [website](http://foodfightshow.org/2013/07/secret-chef.html) | [YouTube](http://www.youtube.com/watch?v=HL59_dot9zw)
 * Erlang Eye for the DevOps Guy and Gal - [website](http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html) | [YouTube](http://www.youtube.com/watch?v=7WqczWKwWOU)
