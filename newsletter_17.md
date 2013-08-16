@@ -32,6 +32,7 @@ Meetup with people in your neighborhood at one of the following meetup groups.
 * 21-Aug - [SDDevOps Monthly Meeting](http://www.meetup.com/sddevops/events/117878422/) - San Diego
 * 27-Aug - [Seattle DevOps](http://www.meetup.com/Seattle-DevOps-Meetup-Group/events/115144622/) - August Meetup
 * 03-Sep - [Infrastructure Coders](http://www.meetup.com/Infrastructure-Coders/events/131227872/) - Infrastructure is Secondary
+* 17-Sep - [Paris Chef User Group](http://www.meetup.com/chef-paris/events/135052792/) - Chef User Group Paris \#2
 * 18-Sep - [Buck County DevOps](http://www.meetup.com/Bucks-County-DevOps/events/111698572/) - Getting started with Puppet
 * 18-Sep - [DevOps Chicago](http://www.meetup.com/devops/events/130276222/) - Culture as a Strategic Weapon
 * 18-Sep - [DevOps Minneapolis](http://www.meetup.com/DevOps-Minneapolis/events/130180722/) - Culture as a Strategic Weapon
