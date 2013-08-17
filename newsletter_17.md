@@ -21,6 +21,7 @@ In the News
 
 * [RightScale and Chef Integration: Cooking Up Better ServerTemplates](http://www.rightscale.com/blog/rightscale-news/rightscale-and-chef-integration-cooking-better-servertemplates) - RightScale is rolling out a number of changes to improve their integration with Chef.
 * IBM has built some additional integration between Chef and the IBM SmartCloud - [Opscode Chef Script Package Generator](https://www-304.ibm.com/software/brandcatalog/ismlibrary/details?catalog.label=1TW10SO0M) for use with chef-solo and [IBM SmartCloud Orchestrator Content Pack for Opscode Chef](https://www-304.ibm.com/software/brandcatalog/ismlibrary/details?catalog.label=1TW10SO14) for Chef Server. 
+* [Leveling Up on Chef Best Practices](http://www.prashantrajan.com/posts/2013/06/leveling-up-chef-best-practices/) - A review of various practices emerging with the community including number of repos, dependency management, cookbook types, and testing.
 
 ### Upcoming Meetup Groups and Events
 
