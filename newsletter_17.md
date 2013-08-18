@@ -25,16 +25,21 @@ In the News
 
 ### Upcoming Meetup Groups and Events
 
+New Meetup Groups:
+
+* [DFW DevOps]http://www.meetup.com/DFW-DevOps/) - Dallas, Texas
+* [DevOps OTP ATL](http://www.meetup.com/DevOps-OTP-ATL/) - Atlanta, Georgia
+
 Meetup with people in your neighborhood at one of the following meetup groups.
 
-* 15-Aug - [DevOpsATL](http://www.meetup.com/DevOpsATL/events/126575132/) - Monthly Meetup
-* 15-Aug - [DevOps Columbus](http://www.meetup.com/DevOps-Columbus/events/129274502/) - DevOps Columbus, 0.2.0, DevOps & ITIL
 * 20-Aug - [Opscode Chef Meetup](http://www.meetup.com/Opscode-Chef-Meetup/events/129064862/) - Chef Vault
 * 21-Aug - [Chef-NYC](http://www.meetup.com/Chef-NYC/events/75978182/) - Chef Workshop
 * 21-Aug - [SDDevOps Monthly Meeting](http://www.meetup.com/sddevops/events/117878422/) - San Diego
 * 27-Aug - [Chef-BOSTON](http://www.meetup.com/Chef-BOSTON/events/114191092/) - Random Topics and a visit from an Opscoder
 * 27-Aug - [Seattle DevOps](http://www.meetup.com/Seattle-DevOps-Meetup-Group/events/115144622/) - August Meetup
 * 03-Sep - [Infrastructure Coders](http://www.meetup.com/Infrastructure-Coders/events/131227872/) - Infrastructure is Secondary
+* 04-Sep - [DevOps OTP ATL](http://www.meetup.com/DevOps-OTP-ATL/events/131933002/) - DevOps what is it and how can we better leverage it?
+* 10-Sep - [DFW DevOps](http://www.meetup.com/DFW-DevOps/events/134969122/) - Introductions
 * 17-Sep - [Paris Chef User Group](http://www.meetup.com/chef-paris/events/135052792/) - Chef User Group Paris \#2
 * 18-Sep - [Buck County DevOps](http://www.meetup.com/Bucks-County-DevOps/events/111698572/) - Getting started with Puppet
 * 18-Sep - [DevOps Chicago](http://www.meetup.com/devops/events/130276222/) - Culture as a Strategic Weapon
