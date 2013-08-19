@@ -34,7 +34,7 @@ In the News
 
 New Meetup Groups:
 
-* [DFW DevOps]http://www.meetup.com/DFW-DevOps/) - Dallas, Texas
+* [DFW DevOps](http://www.meetup.com/DFW-DevOps/) - Dallas, Texas
 * [DevOps OTP ATL](http://www.meetup.com/DevOps-OTP-ATL/) - Atlanta, Georgia
 
 Meetup with people in your neighborhood at one of the following meetup groups.
@@ -68,7 +68,6 @@ Meetup with people in your neighborhood at one of the following meetup groups.
 
 You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences?  CFPs are closing soon so submit your talk today!
 
-* [Cascadia Ruby](http://cascadiaruby.com/) - Portland, OR - CFP closes August 18
 * [Rails Israel 2013](http://railsisrael2013.events.co.il/) - Tel Aviv, Israel - CFP closes August 31
 * [RubyConf 2013](http://rubyconf.org/) - Miami Beach, FL - CFP closes August 31
 * [DevOpsDays NYC](http://devopsdays.org/events/2013-newyork/) - New York, NY - CFP closes September 1
@@ -79,9 +78,7 @@ You've got a great story or two to share about Chef and how automation has trans
 
 Chef training in Europe! - Join us September 12-13 in München, Germany for a [Chef 2 Day Fundamentals Workshop](http://www.eventbrite.de/event/7310169915/?discount=FOODFIGHT).  Discount code [FOODFIGHT](http://www.eventbrite.de/event/7310169915/?discount=FOODFIGHT) saves you 100 Euro!
 
-Free Chef training when you purchase a ticket for Surge!  Register for this year's [Surge Conference](http://surge.omniti.com/2013) and you'll be able to attend the [2 Day Chef Fundamentals Workshop](http://www.eventbrite.com/event/7431534921/) being held a few days before the conference begins.
-
-Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in [New York City](http://www.opscode.com/blog/event/2-day-chef-fundamentals-nyc-2/), Boston in [August](http://www.eventbrite.com/event/7431424591?discount=FOODFIGHT) or [October](http://www.opscode.com/blog/event/2-day-chef-fundamentals-boston-3/), [DC](http://www.eventbrite.com/event/7431534921?discount=FOODFIGHT),and [San Francisco](http://www.eventbrite.com/event/7400807013?discount=FOODFIGHT), [Seattle](http://www.opscode.com/blog/event/2-day-chef-fundamentals-seattle/).
+Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in [New York City](http://www.opscode.com/blog/event/2-day-chef-fundamentals-nyc-2/), Boston in [August](http://www.eventbrite.com/event/7431424591?discount=FOODFIGHT) or [October](http://www.opscode.com/blog/event/2-day-chef-fundamentals-boston-3/), DC in [September](http://www.eventbrite.com/event/7431534921?discount=FOODFIGHT) and in [October (Windows)](http://www.opscode.com/blog/event/chef-2-day-fundamentals-windows-washington-dc/), [San Francisco](http://www.eventbrite.com/event/7400807013?discount=FOODFIGHT), [Seattle](http://www.opscode.com/blog/event/2-day-chef-fundamentals-seattle/), and [NYC (Windows)](http://www.opscode.com/blog/event/chef-2-day-fundamentals-windows-nyc/).
 
 [Aaron Peterson](http://twitter.com/metaxis) is also offering some three-day Chef Fundamentals classes in San Francisco.  Join him [November 20-22](http://www.eventbrite.com/event/7700461287/).
 
