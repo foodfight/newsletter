@@ -67,9 +67,11 @@ Meetup with people in your neighborhood at one of the following meetup groups.
 
 You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences?  CFPs are closing soon so submit your talk today!
 
+* [Game Developers Conference](http://www.gdconf.com/) - San Francisco, CA - CFP closes August 29
 * [Rails Israel 2013](http://railsisrael2013.events.co.il/) - Tel Aviv, Israel - CFP closes August 31
 * [RubyConf 2013](http://rubyconf.org/) - Miami Beach, FL - CFP closes August 31
 * [DevOpsDays NYC](http://devopsdays.org/events/2013-newyork/) - New York, NY - CFP closes September 1
+* [UP - 2013](http://up-con.com/) Cloud Computing for Healthcare - Santa Clara, CA - CFP closes September 12
 
 ###  Special Offers
 
