@@ -82,19 +82,17 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 188
 
 ### New Cookbooks
 
-* [SysinternalsBginfo](http://community.opscode.com/cookbooks/SysinternalsBginfo) - [scmcdonnell](http://community.opscode.com/users/scmcdonnell) - Downloads Sysinternals Bginfo (latest version by default), unzips it, installs it and configures it on the remote machine.
-
-The cookbook will also allow configuration of the BgInfo data as well as set a configurable wallpaper image for BgInfo data to be displayed.
-* [chocolatey-installer](http://community.opscode.com/cookbooks/chocolatey-installer) - [joefitzgerald](http://community.opscode.com/users/joefitzgerald) - Installs packages using Chocolatey
-* [media](http://community.opscode.com/cookbooks/media) - [arangamani](http://community.opscode.com/users/arangamani) - Installs/Configures media
-* [mineos](http://community.opscode.com/cookbooks/mineos) - [kaimi](http://community.opscode.com/users/kaimi) - Installs/Configures mineos, a minecraft server distribution, on Ubuntu.
+* [SysinternalsBginfo](http://community.opscode.com/cookbooks/SysinternalsBginfo) - [scmcdonnell](http://community.opscode.com/users/scmcdonnell) - Downloads Sysinternals Bginfo (latest version by default), unzips it, installs it and configures it on the remote machine.  The cookbook will also allow configuration of the BgInfo data as well as set a configurable wallpaper image for BgInfo data to be displayed.
+* [chocolatey-installer](http://community.opscode.com/cookbooks/chocolatey-installer) - [joefitzgerald](http://community.opscode.com/users/joefitzgerald) - This cookbook allows you to provide an list of package names to be installed by chocolatey, in order.
+* [media](http://community.opscode.com/cookbooks/media) - [arangamani](http://community.opscode.com/users/arangamani) - This cookbook will setup the media devices on a server which will ideally act as a file/media server. Initially it will be used to mount external devices and add then as NFS shares.
+* [mineos](http://community.opscode.com/cookbooks/mineos) - [kaimi](http://community.opscode.com/users/kaimi) - Installs/Configures [mineos](http://codeemo.com/), a minecraft server distribution, on Ubuntu.
 * [minidlna](http://community.opscode.com/cookbooks/minidlna) - [arangamani](http://community.opscode.com/users/arangamani) - Installs/Configures minidlna
 * [motd](http://community.opscode.com/cookbooks/motd) - [chr4](http://community.opscode.com/users/chr4) - Installs/Configures motd
-* [nodebrew](http://community.opscode.com/cookbooks/nodebrew) - [linyows](http://community.opscode.com/users/linyows) - Installs and manages your versionsf Node.js in Chef with nodebrew
-* [npm_registry](http://community.opscode.com/cookbooks/npm_registry) - [coryroloff](http://community.opscode.com/users/coryroloff) - Installs and configures an NPM registry
-* [packer](http://community.opscode.com/cookbooks/packer) - [emilsit](http://community.opscode.com/users/emilsit) - Installs/Configures packer
+* [nodebrew](http://community.opscode.com/cookbooks/nodebrew) - [linyows](http://community.opscode.com/users/linyows) - Installs and manages your versionsf Node.js in Chef with [nodebrew](https://github.com/hokaccha/nodebrew)
+* [npm_registry](http://community.opscode.com/cookbooks/npm_registry) - [coryroloff](http://community.opscode.com/users/coryroloff) - Installs and configures an NPM package registry using the official [NPM project layout](https://github.com/isaacs/npmjs.org).
+* [packer](http://community.opscode.com/cookbooks/packer) - [emilsit](http://community.opscode.com/users/emilsit) - Installs [Packer](http://packer.io/) using the [ark cookbook](https://github.com/opscode-cookbooks/ark).
 * [selenium-grid](http://community.opscode.com/cookbooks/selenium-grid) - [curio](http://community.opscode.com/users/curio) - Installs/Configures Selenium Grid nodes & hubs.
-* [sqlce](http://community.opscode.com/cookbooks/sqlce) - [joefitzgerald](http://community.opscode.com/users/joefitzgerald) - Installs/Configures SQL CE 4.0 SP1
+* [sqlce](http://community.opscode.com/cookbooks/sqlce) - [joefitzgerald](http://community.opscode.com/users/joefitzgerald) - Installs/Configures Microsoft SQL Server Compact 4.0 SP1
 * [stackdriver](http://community.opscode.com/cookbooks/stackdriver) - [dlaube1](http://community.opscode.com/users/dlaube1) - Installs/Configures stackdriver
 * [chef-whitelist](https://github.com/etsy/chef-whitelist) - This library enables easy rollout of changes on a per host basis. The whitelist is stored in a data bag and can contain single hostnames or `roles`. Hostnames are checked first and can contain glob patterns to enable similarly named hostgroups. If none of the hostnames match, all roles in the roles array are checked whether the host has one of them applied.
 
