@@ -57,7 +57,6 @@ updated_cookbooks.each do |cb|
   end
 end
 
-updated_cookbook_summary.sort!
 updated_cookbook_summary.each do |updated_cookbook|
   puts updated_cookbook
 end
