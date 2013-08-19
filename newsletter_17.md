@@ -11,8 +11,8 @@ Food Fight Show News
 We are preparing episodes on the following topics and would love your help generating questions, identifying panelists, etc.
 
 * [The Journey towards DevOps at Riot Games](https://github.com/foodfight/showz/blob/master/scripts/episode-59-devops-riot.md) - [Tuesday, August 20, 2013 at 17:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+DevOps+Riot%21&iso=20130820T13&p1=1928&ah=1)
+* [Writing Ohai Plugins](https://github.com/foodfight/showz/blob/master/scripts/episode-61-ohai-plugins.md) - [Monday, August 26, 2013 at 20:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ohai+Plugins&iso=20130826T16&p1=419&ah=1)
 * [Chef and Openstack](https://github.com/foodfight/showz/blob/master/scripts/episode-XX-openstack.md) - [Monday, September 16, 2013 at 16:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Openstack&iso=20130916T12&p1=1928&ah=1)
-* Writing Ohai Plugins
 
 In the News
 -----------
