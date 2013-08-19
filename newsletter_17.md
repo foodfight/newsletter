@@ -76,9 +76,9 @@ Cookbook News<a name="cookbooks"></a>
 -------------
 ### Stats
 
-Cookbooks on the [Community Site](http://community.opscode.com) - 1075  
+Cookbooks on the [Community Site](http://community.opscode.com) - 1087  
 Knife Plugins on [RubyGems.org](http://rubygems.org) - 140  
-Chef Gems available on [RubyGems.org](http://rubygems.org) - 183  
+Chef Gems available on [RubyGems.org](http://rubygems.org) - 188  
 
 ### New Cookbooks
 * [chef-whitelist](https://github.com/etsy/chef-whitelist) - This library enables easy rollout of changes on a per host basis. The whitelist is stored in a data bag and can contain single hostnames or `roles`. Hostnames are checked first and can contain glob patterns to enable similarly named hostgroups. If none of the hostnames match, all roles in the roles array are checked whether the host has one of them applied.
@@ -91,6 +91,20 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 183
 
 ### New and Updated Chef and Knife Gems
 
+* [ahamid-soloist](http://rubygems.org/gems/ahamid-soloist) (0.9.3) - Soloist is an easy way of running chef solo, but it's not doing much.
+* [berkshelf-solo](http://rubygems.org/gems/berkshelf-solo) (0.0.2) - Makes Berkshelf more friendly to chef-solo by generating chef-solo folder layout
+* [chef-undev](http://rubygems.org/gems/chef-undev) (0.1.0) - Chef client patches for undev
+* [fog](http://rubygems.org/gems/fog) (1.15.0) - The Ruby cloud services library. Supports all major cloud providers including AWS, Rackspace, Linode, Blue Box, StormOnDemand, and many others. Full support for most AWS services including EC2, S3, CloudWatch, SimpleDB, ELB, and RDS.
+* [knife-backup](http://rubygems.org/gems/knife-backup) (0.0.8) - Chef knife plugins to help backup and restore chef servers
+* [knife-google](http://rubygems.org/gems/knife-google) (1.1.0) - Google Compute Engine Support for Chef's Knife Command
+* [knife-joyent](http://rubygems.org/gems/knife-joyent) (0.3.3) - Joyent CloudAPI Support for Chef's Knife Command
+* [knife-role-spaghetti](http://rubygems.org/gems/knife-role-spaghetti) (0.0.5) - This knife plugin extends the `knife role` command.
+* [knife-scrub](http://rubygems.org/gems/knife-scrub) (0.1.2) - Collection of knife plugins to remove orphaned objects from chef-server.
+* [knife-whisk](http://rubygems.org/gems/knife-whisk) (2.0.1) - A utility for quickly whipping up new servers in a team environment.
+* [soloist-rvm](http://rubygems.org/gems/soloist-rvm) (0.0.1) - Makes running chef-solo possible.
+* [soloist](http://rubygems.org/gems/soloist) (1.0.1) - Makes running chef-solo easy.
+* [strainer](http://rubygems.org/gems/strainer) (3.2.2) - Run isolated cookbook tests against your chef repository with Strainer.
+* [test-kitchen-provisioners](http://rubygems.org/gems/test-kitchen-provisioners) (0.1) - A collection of helpful provisioniners for working with Test Kitchen
 
 <hr />
 The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryanwb) and [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
