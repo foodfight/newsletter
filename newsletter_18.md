@@ -2,7 +2,7 @@ Food Fight Show News
 -------------------
 
 ### Latest Episodes
-* The Journey towards DevOps at Riot Games - website | YouTube
+* The Journey towards DevOps at Riot Games - [website](http://foodfightshow.org/2013/08/devops-riot.html) | [YouTube](http://www.youtube.com/watch?v=--E0MzMH_FM)
 * Packer - [website](http://foodfightshow.org/2013/08/packer.html) | [YouTube](http://www.youtube.com/watch?v=MOCao3DeWSU)
 * Immutable Infrastructure - [website](http://foodfightshow.org/2013/07/immutable-infrastructure.html) | [YouTube](http://www.youtube.com/watch?v=G92dPaluEwo)
 
@@ -11,6 +11,7 @@ We are preparing episodes on the following topics and would love your help gener
 
 * [Writing Ohai Plugins](https://github.com/foodfight/showz/blob/master/scripts/episode-61-ohai-plugins.md) - [Monday, August 26, 2013 at 20:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ohai+Plugins&iso=20130826T16&p1=419&ah=1)
 * [Chef and Openstack](https://github.com/foodfight/showz/blob/master/scripts/episode-XX-openstack.md) - [Monday, September 16, 2013 at 16:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Openstack&iso=20130916T12&p1=1928&ah=1)
+* [Chef and HPC](https://github.com/foodfight/showz/blob/master/scripts/episode-63-hpc.md) - [Friday, September 27, 2013 at 11:00:00 AM UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+and+HPC&iso=20130927T11&p1=419)
 
 In the News
 -----------
