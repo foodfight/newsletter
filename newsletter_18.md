@@ -76,6 +76,7 @@ Knife Plugins on [RubyGems.org](http://rubygems.org) - 140
 Chef Gems available on [RubyGems.org](http://rubygems.org) - 188  
 
 ### New Cookbooks
+* [chef-docker](https://github.com/failshell/chef-docker) - [failshell](http://github.com/failshell) - Run Docker on RHEL or CentOS
 
 
 ### Updated Cookbooks
