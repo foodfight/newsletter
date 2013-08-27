@@ -22,6 +22,9 @@ In the News
 
 New Meetup Groups:
 
+* [Systematic Innovations](http://www.meetup.com/Systematic-Innovations/) - Melbourne, Australia
+* [Chef Toronto](http://www.meetup.com/Chef-Toronto/) - Toronto, Canada
+* [Infracoders Hong Kong](http://www.meetup.com/Infracoders-Hong-Kong/) - Hong Kong, China
 * [Opscode Chef Meetup AZ](http://www.meetup.com/Opscode-Chef-Meetup-AZ/) - Phoenix, Arizona
 * [NYC WebOps on Windows](http://www.meetup.com/mswebops/) - New York, New York
 * [Bristol DevOps](http://www.meetup.com/Bristol-DevOps/) - Bristol, United Kingdom
@@ -43,6 +46,7 @@ Meetup with people in your neighborhood at one of the following meetup groups.
 * 18-Sep - [DevOps Chicago](http://www.meetup.com/devops/events/130276222/) - Culture as a Strategic Weapon
 * 18-Sep - [DevOps Minneapolis](http://www.meetup.com/DevOps-Minneapolis/events/130180722/) - Culture as a Strategic Weapon
 * 19-Sep - [DevOpsATL](http://www.meetup.com/DevOpsATL/events/134841292/) - DevOpsATL Monthly Meetup
+* 28-Sept - [DevOps Moscow](http://www.meetup.com/DevOps-Moscow-in-Russian/events/136708242) - Что такое DevOps?
 * 08-Oct - [DevOpsDC](http://www.meetup.com/DevOpsDC/events/134372152/) - October meetup
 
 * **Chef Cafes** - Have questions about Chef? Are you doing some cool stuff with Chef and what to share it with others chefs?  Stop by a Chef Cafe in your area.
@@ -71,8 +75,8 @@ Cookbook News<a name="cookbooks"></a>
 -------------
 ### Stats
 
-Cookbooks on the [Community Site](http://community.opscode.com) - 1087  
-Knife Plugins on [RubyGems.org](http://rubygems.org) - 140  
+Cookbooks on the [Community Site](http://community.opscode.com) - 1093  
+Knife Plugins on [RubyGems.org](http://rubygems.org) - 142  
 Chef Gems available on [RubyGems.org](http://rubygems.org) - 188  
 
 ### New Cookbooks
