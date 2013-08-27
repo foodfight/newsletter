@@ -18,6 +18,8 @@ In the News
 
 * [Opscode Community Summit](http://wiki.opscode.com/display/chef/Community+Summit+3+-+2013) - Join us November 12-13 in Seattle to share your ideas, triumphs, and challenges with Chef or other personal projects.  Space is limited so [register today](https://www.regonline.com/opscodesummit-2013)!
 
+* [New knife plugin for ProfitBricks](http://blog.profitbricks.com/opscode-chef-integration-profitbricks) - A quick write-up about the development of the new knife-profitbricks plugin and an illustration of how to use it.
+
 ### Upcoming Meetup Groups and Events
 
 New Meetup Groups:
